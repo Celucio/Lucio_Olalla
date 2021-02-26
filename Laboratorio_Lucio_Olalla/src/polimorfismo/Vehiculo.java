@@ -20,22 +20,22 @@ public class Vehiculo {
 	public void setMatricula(String matricula) {     
 		this.matricula = matricula;          
 	}
-	public String getMarca() {           //Grupo6
-		return marca;              //Grupo6
+	public String getMarca() {        
+		return marca;           
 	}
-	public void setMarca(String marca) {             //Grupo6
-		this.marca = marca;          //Grupo6
+	public void setMarca(String marca) {             
+		this.marca = marca;       
 	}
-	public String getModelo() {                //Grupo6
-		return modelo;                          //Grupo6
+	public String getModelo() {                
+		return modelo;                  
 	}
-	public void setModelo(String modelo) {              //Grupo6
-		this.modelo = modelo;                //Grupo6
+	public void setModelo(String modelo) {             
+		this.modelo = modelo;               
 	}
 	
 	//Metodo toString
 	public String toString() {
-		return "Vehiculo [matricula=" + matricula + ", marca=" + marca + ", modelo=" + modelo + "]"; //Grupo6
+		return "Vehiculo [matricula=" + matricula + ", marca=" + marca + ", modelo=" + modelo + "]";
 	}
 
 }
