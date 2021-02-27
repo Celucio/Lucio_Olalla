@@ -11,6 +11,7 @@ public class Frutas {
 	    System.out.print(fruta.getFruits());
 	  }
 	}
+// Clase Furta con su respectivo array
 	class Fruta
 	{
 	  private ArrayList<String>frutas;
