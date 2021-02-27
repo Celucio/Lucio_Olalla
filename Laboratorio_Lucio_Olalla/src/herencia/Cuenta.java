@@ -2,7 +2,7 @@ package herencia;
 
 public class Cuenta extends Ejecutable {
 	 
-    //Atributos
+			// ATRIBUTOS 															JSJS
     private String persona;
     private double monto;
  
