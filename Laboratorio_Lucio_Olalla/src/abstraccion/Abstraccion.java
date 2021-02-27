@@ -6,7 +6,7 @@ public class Abstraccion {
 		Perro perro = new Perro("Peluchin","French Poodle", "Blanco", "Grande", "Perro feliz");
 		perro.ImprimirDatos();
 		perro.imprimirInformacion();
-		//Prueba
+	
 	}
 
 }
