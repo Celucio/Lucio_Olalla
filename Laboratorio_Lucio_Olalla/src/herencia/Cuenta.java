@@ -21,7 +21,7 @@ public class Cuenta extends Ejecutable {
         }
     }
  
-    //Metodos
+    //Metodos del ejemplo
     public String getTitular() {
         return persona;
     }
