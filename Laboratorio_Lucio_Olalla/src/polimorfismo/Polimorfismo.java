@@ -5,7 +5,7 @@ import polimorfismo.Vehi_Deportivo;
 import polimorfismo.Vehiculo;
 
 public class Polimorfismo {
-
+    
 	public static void main(String[] args) {
 
 		Vehiculo tVehiculo[] = new Vehiculo[3];
