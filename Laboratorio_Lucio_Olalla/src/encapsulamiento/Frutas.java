@@ -3,7 +3,7 @@ package encapsulamiento;
 import java.util.ArrayList;
 
 public class Frutas {
-
+    // Ejemplo de frutas, encapsulamiento
 	 public static void main(String[] args)
 	  {
 	    Fruta fruta = new Fruta();

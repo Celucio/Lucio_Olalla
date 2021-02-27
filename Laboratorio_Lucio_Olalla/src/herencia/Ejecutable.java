@@ -20,5 +20,6 @@ public class Ejecutable {
 	        System.out.println(cuentaLuis); 
 	        
 	        // Commit N° 2
+	        //Ejemplo de herencia
 	    }
 }
